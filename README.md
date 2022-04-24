@@ -1,5 +1,7 @@
-# I,m The Last Guard = {Abdiel J. Nuñez}
+# I,m The Last Guard = {Abdiel J. Nuñez (Can call me Abdiel J. Nunnez)}
 a newby and solo developer of games 
+
+###### i,m from Mexico'
 
 | Projects    | Progress |
 |-------------|----------|
