@@ -1,12 +1,9 @@
-# I,m The Last Guard = {Abdiel J. Nuñez (Can call me Abdiel J. Nunnez)}
-a newby and solo developer of games 
+# I,m The Last Guard
 
-###### i,m from Mexico'
-
-| Projects    | Progress |
-|-------------|----------|
-| RL;M        | 36%      |
-|grave Engine | 16%      |
+| Projects    | Progress | Status     |
+|-------------|----------|------------|
+| RlP         | 36%      |development |
+|grave Engine | 16%      | paused     |
 
 | languajes    | Progress |
 |--------------|----------|
