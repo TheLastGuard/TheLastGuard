@@ -8,5 +8,4 @@
 | languajes    | Progress |
 |--------------|----------|
 | CPP          | 50%      |
-| LUA          | 90%      |
 | haxe         | 60%      |
